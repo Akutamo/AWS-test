@@ -1,2 +1,2 @@
 # AWS-test
-AmazonConnectとLamdaに使用するやつ。
+AmazonConnectとLamdaに使用
