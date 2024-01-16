@@ -1,2 +1,3 @@
 # AWS-test
-AmazonConnectとLamdaに使用
+
+$ git clone https://github.com/furuya02/AmazonConnectExtension001.git
